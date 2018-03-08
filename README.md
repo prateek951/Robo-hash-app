@@ -1,6 +1,7 @@
 # RoboHashApp
-This is a simple RoboHash Application that fetches Robots from API 
+This is a simple Application that fetches Robots from API 
 
+# Frontend coded in React.js and Styling is done using Tachyons
 # Uses a backend API to fetch robots from the backend server
 # To run the app
 
